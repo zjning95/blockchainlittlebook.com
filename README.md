@@ -365,7 +365,7 @@ TEE（[Trusted Execution Environment](https://en.wikipedia.org/wiki/Trusted_exec
 所以，参与有杠杆的合约交易是你个人的选择，但有两个建议很重要：
 
 > 1. 不要只做期货；
-> 2. 选择靠谱的不作恶的交易所，比如 [BTCMEX](https://www.btcmex.com/)……
+> 2. 选择靠谱的不作恶的交易所，比如 [bitcoke](https://www.bitmex.com/register/BTUWav)……
 
 
 
@@ -402,7 +402,7 @@ Fork 完成之后，点开 Settings
 
 ![](images/fork3.png)
 
-而后在 Custom Domain 中填写你自己的域名（你可以在 [name.com](https://www.name.com/) 上或者[阿里云](https://www.net.cn)上购买域名）：
+而后在 Custom Domain 中填写你自己的域名（你可以在 [name.com](https://www.name.com/) 上或者[阿里云](https://www.aliyun.com)上购买域名）：
 
 ![](images/fork4.png)
 
